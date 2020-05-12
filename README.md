@@ -14,13 +14,13 @@ As a senior data analyst at the company, you've been given access to the complet
 
 ## Obersvations & Insights
 
-My obersations of this study are as follows:
+My observations of this study are as follows:
 
 * Most statisticians agree that the minimum sample size to get any kind of meaningful result is 100. In the case of this study, we had exactly 100.
 
 * Both Capomulin and Ramicane seemed neck-and-neck in terms of affectiveness; both these drugs Final Tumor Size was near identical, however it is worth noting
   that the Starting Tumor Size for each respective was not. We would need an identical Starting Tumor Size to be asbolutely sure of affectiveness.
 
-* An R-sqaure of 0.84 suggests that their is compelling evidence that mouse weight correlates strongly vs. the Average Tumor Size.
+* An R-square of 0.84 suggests that their is compelling evidence that mouse weight correlates strongly vs. the Average Tumor Size.
 
 * Continuing the treatment of mice (who's drug were Capomulin and Ramicance) would help determine whether these respective drugs could totally eradicate the tumors, or whether tumor shrinkagw plateaus, before the tumor is completely 'cured.
